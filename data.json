@@ -7257,7 +7257,7 @@
 {"n":"response","b":"letterlike_symbols","c":8479},
 {"n":"service mark","b":"letterlike_symbols","c":8480},
 {"n":"telephone sign","b":"letterlike_symbols","c":8481},
-{"n":"trade mark sign","b":"letterlike_symbols","c":8482,"altnames":{"latex":"\\texttrademark","html":"TRADE"}},
+{"n":"trade mark sign","b":"letterlike_symbols","c":8482,"altnames":{"latex":"\\texttrademark","html":"TRADE"},"a":["tm"]},
 {"n":"versicle","b":"letterlike_symbols","c":8483},
 {"n":"double-struck capital z","b":"letterlike_symbols","c":8484,"altnames":{"latex":"\\mathbb{Z}"}},
 {"n":"ounce sign","b":"letterlike_symbols","c":8485},
